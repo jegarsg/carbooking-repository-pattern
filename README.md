@@ -3,6 +3,7 @@
 This is a sample .NET solution implementing the Repository Pattern for a Car Booking system. It demonstrates a clean separation of concerns across repository, service, API, and testing layers.
 
 ## Project Structure
+```bash
 TestCase.CarBooking.WebApi.sln
 │
 ├── TestCase.CarBooking.Repository # Contains repository interfaces and implementations
@@ -11,7 +12,7 @@ TestCase.CarBooking.WebApi.sln
 ├── .gitattributes
 ├── .gitignore
 
-
+```
 
 ## Technologies Used
 
